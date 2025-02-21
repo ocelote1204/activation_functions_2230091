@@ -79,7 +79,7 @@ Matplotlib 3.10.0
 
 📜 Licencia
 
-Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y distribuirlo libremente.
+Puedes usarlo, modificarlo y distribuirlo libremente.
 
 💡 Desarrollado por Osmar Amir Sanchez Gomez
 
