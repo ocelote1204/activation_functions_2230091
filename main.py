@@ -1,5 +1,11 @@
 import numpy as np
 import matplotlib.pyplot as plt
+import sys
+import os
+
+# Agregar 'src/' al path para poder importar los módulos
+sys.path.append(os.path.join(os.path.dirname(__file__), "src"))
+
 from activaciones import (
     relu, relu_derivative, sigmoid, sigmoid_derivative, 
     tanh, tanh_derivative, leaky_relu, leaky_relu_derivative, 
@@ -62,4 +68,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
